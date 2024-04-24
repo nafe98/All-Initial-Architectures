@@ -1,0 +1,29 @@
+Data Analysis: Cyberslacking and Increased Security Risk
+
+Objective:
+Create a data analysis report to understand the correlation between employee attitudes towards cyberslacking and perceived increased security risks in the workplace.
+
+Data Structure:
+Strongly Agree = 1
+Agree = 2
+Neither agree nor disagree = 3
+Disagree = 4
+Strongly Disagree = 5
+
+Dependent Value = 
+
+Cyberslacking	
+Increased Security Risk
+
+
+Tasks:
+
+Summarize the central tendency (mean, median) and dispersion (standard deviation, range) of responses for both variables.
+Perform hypothesis testing to check if negative attitudes towards cyberslacking (disagreeing with the concept) are associated with a perception of higher security risks.
+Create scatter plots and calculate Pearson’s correlation coefficient between the two variables to explore the relationship visually and statistically.
+Provide a regression analysis model to predict the impact of attitudes towards cyberslacking on perceived security risks.
+Expected Deliverables:
+
+A comprehensive report detailing the statistical summaries, hypothesis test results, correlation coefficients, and regression analysis.
+Visuals including histograms for each variable and scatter plot for the relationship analysis.
+Conclusions based on the statistical findings and their implications for workplace policies.

@@ -1,0 +1,12 @@
+Data Structure:
+Agree = 1
+Neither agree nor disagree = 2
+Disagree = 3
+
+
+Dependent Value = 
+
+Cyberslacking	
+Increased Security Risk
+
+Do Data Analysis in Python: Cyberslacking and Increased Security Risk 
